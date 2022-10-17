@@ -29,7 +29,10 @@
     "clear B6",
     "flag G8",
     "flag G7",
-    "clear H7"
+    "clear H7",
+    "unflag A5",
+    "unflag B6",
+    "clear H8"
 
     
   ]

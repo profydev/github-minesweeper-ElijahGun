@@ -32,7 +32,9 @@
     "clear H7",
     "unflag A5",
     "unflag B6",
-    "clear H8"
+    "clear H8",
+    "clear A5",
+    "clear B6"
 
     
   ]
